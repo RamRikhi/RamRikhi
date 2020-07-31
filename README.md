@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with iOS 
 - 💬 Ask me about Microservices Architecture and Java
 - 📫 How to reach me: LinkedIn | Twitter | Instagram | Facebook
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+- 😄 Pronouns:He 
+- ⚡ Fun fact: I am watching fun videos for 2 hour
 -->
