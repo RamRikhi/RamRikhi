@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**RamRikhi/RamRikhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning iOS Development
@@ -12,5 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Microservices Architecture and Java
 - 📫 How to reach me: LinkedIn | Twitter | Instagram | Facebook
 - 😄 Pronouns:He 
-- ⚡ Fun fact: I am watching fun videos for 2 hour
--->
+- ⚡ Fun fact: I am watching fun videos for 2 hours a day.
