@@ -1,9 +1,10 @@
 ### Hi there,I am Rikhi Ram Satnami👋
+# I'm Microservices Developer
 ---
 - 🔭 I’m currently working on my personal project
-- 🌱 I’m currently learning iOS Developement
+- 🌱 I’m currently learning iOS Development
 - 👯 I’m looking to collaborate on facebook
-- 🤔 I’m looking for help with iOS Developement
+- 🤔 I’m looking for help with iOS Development
 - 💬 Ask me about Microservices Architecture and Java
 
 ---
