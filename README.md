@@ -1,5 +1,5 @@
 ## Hi there,I am Rikhi Ram Satnami👋
-### Java | Microservices Developer | REST API | Angular 10
+### Java | Microservices Developer | REST API Developer | Angular 10
 ---
 - 🔭 I’m currently working on my personal project
 - 🌱 I’m currently learning iOS Development
