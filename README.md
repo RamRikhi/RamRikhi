@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with iOS Developement
 - 💬 Ask me about Microservices Architecture and Java
 
+---
 ### Connect with me:
 ---
 
