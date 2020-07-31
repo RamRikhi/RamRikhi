@@ -20,5 +20,5 @@
 [website]: https://p4developer.com
 [twitter]: https://twitter.com/RikhiramS
 [facebook]: https://facebook.com/rikhiram.ram.73
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://instagram.com/b.p.r.rikhi
 [linkedin]: https://linkedin.com/in/rikhiram
