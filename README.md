@@ -1,5 +1,5 @@
 ### Hi there,I am Rikhi Ram Satnami👋
-
+---
 - 🔭 I’m currently working on my personal project
 - 🌱 I’m currently learning iOS Developement
 - 👯 I’m looking to collaborate on facebook
