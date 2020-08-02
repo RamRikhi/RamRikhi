@@ -40,7 +40,7 @@
 
 ---
 
-[website]: https://p4developer.com
+[website]: https://ramrikhi.github.io
 [twitter]: https://twitter.com/RikhiramS
 [facebook]: https://facebook.com/rikhiram.ram.73
 [instagram]: https://instagram.com/b.p.r.rikhi
