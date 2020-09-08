@@ -45,3 +45,5 @@
 [facebook]: https://facebook.com/rikhiram.ram.73
 [instagram]: https://instagram.com/b.p.r.rikhi
 [linkedin]: https://linkedin.com/in/rikhiram
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ramrikhi)](https://github.com/anuraghazra/github-readme-stats)
