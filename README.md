@@ -1,5 +1,5 @@
 # Rikhi Ram Satnami
-### Java | Microservices | REST API | Angular 10
+### Java | Microservices | REST API | Angular | React Native
 ---
 - 🔭 I’m currently working on my personal project
 - 👯 I’m looking to collaborate on facebook
