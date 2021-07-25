@@ -1,9 +1,6 @@
 # Rikhi Ram Satnami
 ### Java | Microservices | API | Angular | React Native
 ---
-- 🔭 I’m currently working on my personal project
-- 👯 I’m looking to collaborate on facebook
-- 🤔 I’m looking for help with iOS Development
 - 💬 Ask me about Microservices Architecture and Java
 
 ---
