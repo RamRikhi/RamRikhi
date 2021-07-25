@@ -1,5 +1,5 @@
 # Rikhi Ram Satnami
-### Java | Microservices | API | Angular | React Native
+### Java | Microservices | API | Docker | K8s | React
 ---
 - 💬 Ask me about Microservices Architecture and Java
 
