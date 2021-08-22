@@ -2,6 +2,7 @@
 ### C/C++ | Java | Microservices | API | Docker | K8s | React
 ---
 - 💬 Ask me about Microservices Architecture and Java
+- 💬 Learning Blockchain
 
 ---
 ### Connect with me:
