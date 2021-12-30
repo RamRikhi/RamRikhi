@@ -1,5 +1,5 @@
 # Rikhi Ram Satnami
-### C/C++ | Java | Microservices | API | Docker | K8s | React
+### Software Engineer
 ---
 - 💬 Ask me about Microservices Architecture and Java
 - 💬 Learning Blockchain
