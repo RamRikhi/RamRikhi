@@ -1,8 +1,8 @@
 # Rikhi Ram Satnami
 ### Software Engineer
 ---
-- 💬 Ask me about Microservices Architecture and Java
-- 💬 Learning Blockchain
+- 💬 Ask me about Microservices Architecture, Java, and C/C++
+- 💬 Learning Linux Kernel Development
 
 ---
 ### Connect with me:
