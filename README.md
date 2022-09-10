@@ -1,8 +1,10 @@
 # Rikhi Ram Satnami
 ### Software Engineer
 ---
-- 💬 Ask me about Microservices Architecture, Java, and C/C++
+- 💬 Ask me about Microservices, C/C++, Java, Docker, K8s, gRPC, REST, Kafka, and AWS
+- 💬 Distributed Systems expert
 - 💬 Learning Linux Kernel Development
+- 💬 Learning Python
 
 ---
 ### Connect with me:
