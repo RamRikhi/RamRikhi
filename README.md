@@ -2,7 +2,7 @@
 ### Software Engineer
 ---
 - 💬 Ask me about Microservices, C/C++, Java, Docker, K8s, gRPC, REST, Kafka, and AWS
-- 💬 Distributed Systems expert
+- 💬 Distributed Systems Expert
 - 💬 Learning Linux Kernel Development
 - 💬 Learning Python
 
