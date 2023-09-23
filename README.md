@@ -1,10 +1,10 @@
 # Rikhi Ram Satnami
-### Software Engineer
+### Senior Software Engineer
 ---
-- 💬 Ask me about Microservices, C/C++, Java, Docker, K8s, gRPC, REST, Kafka, and AWS
+- 💬 Microservices, C/C++/Rust, Java, Python, DevOps, gRPC, REST, GraphQL, Kafka, and Cloud Native
 - 💬 Distributed Systems Expert
 - 💬 Learning Linux Kernel Development
-- 💬 Learning Python
+- 💬 Tech Enthusiastic
 
 ---
 ### Connect with me:
